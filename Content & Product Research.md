@@ -1,0 +1,1 @@
+Our team had searched various Microsoft Docs which were related to Green Tech and distributed among us to review each of them. After progressive discussion we selected this docs "Microsoft Azure Fundamentals: Describe core Azure concepts" to make more beginner friendly.
