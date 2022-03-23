@@ -1,0 +1,1 @@
+We have outlined several beginner friendly topics for adding to the learning path in which some of the topics are renewable energy, promoting energy efficiency, water use and reforestation. Our team had researched these topics and added it to the learning path of Microsoft Azure Fundamentals: Describe core Azure concepts.
