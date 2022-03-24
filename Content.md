@@ -23,5 +23,5 @@
 
 ## Proposed Additional Section Details 
 # Azure in Green Tech
-Azure believes sustainability and humanity’s response to climate change as one of the greatest challenges of our lifetime. Hence, Azure has plans for greener future through introducing sustainable technologies.
+Azure believes sustainability and humanity’s response to climate change as one of the greatest challenges of our lifetime. Hence, it has plans for greener future through introducing sustainable technologies. Azure has pledged to put sustainable technology at the centre of our innovation, ensuring that we adapt and grow in lockstep with the earth while minimising environmental effect.
 ## Water Usage
