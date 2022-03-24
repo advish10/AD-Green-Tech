@@ -47,6 +47,10 @@ About half the world's population lives by the coast. Setting-up data centers ne
 
 ### Azure towards Reforestation
 
+#### Datacenter Communities
+
+As Microsoft expands its datacenter footprint, the Datacenter Community Development team works to extend our Corporate Social Responsibility purpose to each of our datacenter communities. Farmers were given €1,000 per hectare to construct fresh native woodland as part of this scheme. Microsoft will match the government subsidies that landowners can get from the Irish Forestry Service in exchange for having forests on their property permanently. Forestation becomes a more viable financial alternative for farmers and other landowners as a result of this. "Adding forests to my land is something that I've thought about for 17 years," said one Irish landowner, George Salter-Townshend.
+
 #### How Azure helped The Nature Conservancy
 
 Technology aided in putting the company on a more meaningful path. The Nature Conservancy has adopted Microsoft Azure cloud services, which is changing the way the organisation tackles conservation planning—and resulting in real-world impact (or, in some cases, in the water). The Nature Conservancy was able to use an innovative approach that combined traditional academic research with big data, artificial intelligence (AI), and social media inputs to map the full value of coral reefs to tourism in high resolution, highlighting the incentive for sustainable reef management, thanks to a long-term partnership with Microsoft.
