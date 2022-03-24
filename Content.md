@@ -43,3 +43,10 @@ It is a process of cooling the hardware by directly immersing it into a non-cond
 #### Underwater and Submerged Data Centers
 
 About half the world's population lives by the coast. Setting-up data centers near coastal cities would mean data has to travel a shorter distance, leading to fast and smooth web surfing, video streaming, and game playing. These data centers also are consistently under the cool subsurface seas that increase energy efficiency. It was observed that the failure rate of the hardware was only 1/8th of that on the land.
+
+
+### Azure towards Reforestation
+
+#### How Azure helped The Nature Conservancy
+
+Technology aided in putting the company on a more meaningful path. The Nature Conservancy has adopted Microsoft Azure cloud services, which is changing the way the organisation tackles conservation planning—and resulting in real-world impact (or, in some cases, in the water). The Nature Conservancy was able to use an innovative approach that combined traditional academic research with big data, artificial intelligence (AI), and social media inputs to map the full value of coral reefs to tourism in high resolution, highlighting the incentive for sustainable reef management, thanks to a long-term partnership with Microsoft.
