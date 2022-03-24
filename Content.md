@@ -66,3 +66,19 @@ Technology aided in putting the company on a more meaningful path. The Nature Co
 #### Better data collection
 
 Microsoft Azure not only provides a powerful and versatile platform for storing and crunching data, but it also allows nonprofit workers to use tools like machine learning and data scraping to better understand the health of the world's natural resources—and how they can safeguard the earth.
+
+Energy Efficiency
+
+According to Microsoft, Azure compute is 52% more energy efficient than a high-end deployment of virtualized servers in an enterprise data center and 79% better than physical servers. Azure storage is 71% more efficient than dedicated storage and 79% more efficient than direct-attached disks.
+
+Azure towards energy efficiency
+
+Energy efficiency varies between Azure regions based on factors such as what cooling systems they use. By signing up for access to the energy usage data, Azure customers can identify if they could move their workloads to an Azure region with better energy efficiency than the region they’re currently using. One-way organizations can become more carbon efficient is by using public cloud services, such as Microsoft Azure. For a large enterprise that runs a big portion of its operations in the cloud, such a switch can potentially noticeably reduce its carbon footprint.
+
+· IoT IoT can help optimize energy resources, enhance asset performance, and improve supply-demand balance. Microsoft has committed USD 5 billion to IoT and intelligent edge—adding new features to Azure IoT for energy-related industries and supporting solutions that make an impact where the data is actually generated. On the forefront of this initiative are Microsoft partners who are powering new innovations in IoT energy management, working to take the pressure off the power grid and dramatically improve energy efficiency. With 90% of decision-makers seeing IoT as critical to their company’s continued success, and 64% planning to implement more IoT projects in the future, there is an enormous opportunity to enhance the
+
+performance of grid assets, optimize distributed energy resources, and lower operational costs with Azure IoT.
+
+· Digital transformation for sustainability
+
+This is a global collective effort, but the real power comes from the cumulative effect of individual actors. Microsoft’s solutions are leveraged internationally for sustainability to improve energy efficiency and in the process transform the way we live and work. By building innovative solutions on Azure IoT technologies and continued community engagement, we can improve energy efficiency and energy savings to build innovative low-carbon communities around the world.
