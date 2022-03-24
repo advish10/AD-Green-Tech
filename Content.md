@@ -62,3 +62,7 @@ According to Ferdaa, the partnership between The Nature Conservancy and Microsof
 #### How Azure helped The Nature Conservancy
 
 Technology aided in putting the company on a more meaningful path. The Nature Conservancy has adopted Microsoft Azure cloud services, which is changing the way the organisation tackles conservation planning—and resulting in real-world impact (or, in some cases, in the water). The Nature Conservancy was able to use an innovative approach that combined traditional academic research with big data, artificial intelligence (AI), and social media inputs to map the full value of coral reefs to tourism in high resolution, highlighting the incentive for sustainable reef management, thanks to a long-term partnership with Microsoft.
+
+#### Better data collection
+
+Microsoft Azure not only provides a powerful and versatile platform for storing and crunching data, but it also allows nonprofit workers to use tools like machine learning and data scraping to better understand the health of the world's natural resources—and how they can safeguard the earth.
