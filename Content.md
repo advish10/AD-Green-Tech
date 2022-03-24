@@ -2,22 +2,24 @@
 
 ## Current Module Structure
 1. Introduction
-2. Overview of Azure subscriptions, management groups, and resources
-3. Azure regions, availability zones, and region pairs
-4. Azure resources and Azure Resource Manager
-5. Azure subscriptions and management groups
-6. Knowledge check
-7. Summary
+2. What is cloud computing?
+3. What is Azure?
+4. Tour of Azure services
+5. Get started with Azure accounts
+6. Case study introduction
+7. Knowledge check
+8. Summary
 
 ## Our Proposed Module Structure
 1. Introduction
-2. Overview of Azure subscriptions, management groups, and resources
-3. Azure regions, availability zones, and region pairs
-4. ****Azure in Green Tech**
-5. Azure resources and Azure Resource Manager
-6. Azure subscriptions and management groups
-7. Knowledge check
-8. Summary
+2. What is cloud computing?
+3. What is Azure?
+4. **Azure in Green Tech**
+5. Tour of Azure services
+6. Get started with Azure accounts
+7. Case study introduction
+8. Knowledge check
+9. Summary
 
 ## Proposed Additional Section Details 
 # Azure in Green Tech
