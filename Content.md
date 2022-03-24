@@ -55,6 +55,10 @@ As Microsoft expands its datacenter footprint, the Datacenter Community Developm
 
 The Irish government was so impressed with the results of the Microsoft partnership that it created the Woodland Environmental Fund (WEF), which will allow any company to donate matching cash to help plant more native woodlands. Businesses can help develop native woodlands by offering incentives for landowners to plant trees that they would not have planted if it weren't for the additional financial support. The reputations of participating firms are strengthened by their involvement with tangible environmental assets that will last for years. Carbon capture, increased biodiversity, and the potential for enhanced water quality benefit society as a whole.
 
+#### Azure's impact on Conservation Planning
+
+According to Ferdaa, the partnership between The Nature Conservancy and Microsoft helped open new doors into what the nonprofit had even dreamed was feasible. "After receiving a grant for Azure cloud services and starting to engage with Microsoft's AI for Earth initiative on the best ways to use its cloud and AI infrastructure, we realised how much Azure's cognitive services API could help us boost the effect of our conservation strategy."
+
 #### How Azure helped The Nature Conservancy
 
 Technology aided in putting the company on a more meaningful path. The Nature Conservancy has adopted Microsoft Azure cloud services, which is changing the way the organisation tackles conservation planning—and resulting in real-world impact (or, in some cases, in the water). The Nature Conservancy was able to use an innovative approach that combined traditional academic research with big data, artificial intelligence (AI), and social media inputs to map the full value of coral reefs to tourism in high resolution, highlighting the incentive for sustainable reef management, thanks to a long-term partnership with Microsoft.
