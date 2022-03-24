@@ -44,6 +44,7 @@ It is a process of cooling the hardware by directly immersing it into a non-cond
 
 About half the world's population lives by the coast. Setting-up data centers near coastal cities would mean data has to travel a shorter distance, leading to fast and smooth web surfing, video streaming, and game playing. These data centers also are consistently under the cool subsurface seas that increase energy efficiency. It was observed that the failure rate of the hardware was only 1/8th of that on the land.
 
+## Reforestation
 
 ### Azure towards Reforestation
 
