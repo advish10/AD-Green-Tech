@@ -72,7 +72,7 @@ Microsoft Azure not only provides a powerful and versatile platform for storing 
 
 According to Microsoft, Azure compute is 52% more energy efficient than a high-end deployment of virtualized servers in an enterprise data center and 79% better than physical servers. Azure storage is 71% more efficient than dedicated storage and 79% more efficient than direct-attached disks.
 
-### Azure towards energy efficiency
+#### Azure towards energy efficiency
 
 Energy efficiency varies between Azure regions based on factors such as what cooling systems they use. By signing up for access to the energy usage data, Azure customers can identify if they could move their workloads to an Azure region with better energy efficiency than the region they’re currently using. One-way organizations can become more carbon efficient is by using public cloud services, such as Microsoft Azure. For a large enterprise that runs a big portion of its operations in the cloud, such a switch can potentially noticeably reduce its carbon footprint.
 
@@ -82,3 +82,13 @@ IoT can help optimize energy resources, enhance asset performance, and improve s
 #### Digital transformation for sustainability
 
 This is a global collective effort, but the real power comes from the cumulative effect of individual actors. Microsoft’s solutions are leveraged internationally for sustainability to improve energy efficiency and in the process transform the way we live and work. By building innovative solutions on Azure IoT technologies and continued community engagement, we can improve energy efficiency and energy savings to build innovative low-carbon communities around the world.
+## Renewable energy
+With large companies across the US looking to purchase renewable energy as part of their sustainable business strategies, the need for solar power has grown considerably. The solar industry may deploy as much as 500 MWs of solar per year over the next five years.  
+
+Azure is made up of datacenters located around the globe. When you use a service or create a resource such as a SQL database or virtual machine (VM), you're using physical equipment in one or more of these locations. These Data centers do not have a cross-subsidy to help them tide over high electricity costs and they consume a lot of power.
+
+### Azure towards Renewable energy
+
+#### Solar Energy
+
+Microsoft is partnering with First Solar, an Arizona-based global leader in solar energy, on their Sun Streams 2 photovoltaic (PV) solar plant. The 150-megawatt plant utilizes some of the most sophisticated and eco-efficient solar technology available today and will provide enough power to cover the energy load for each of our new data center campuses once the solar project is operational. The partnership also enables operating efficiencies and supports innovation in First Solar’s state-of-the-art manufacturing facilities through a variety of Microsoft’s intelligent cloud services, including Azure IoT Hub and SQL Data Warehouse. With this agreement, Microsoft now has renewable energy partnerships totaling nearly 1.5-gigawatts.
